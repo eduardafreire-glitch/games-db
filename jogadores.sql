@@ -60,7 +60,7 @@ VALUES
 ('Shadow', 'shadow@email.com', '123456', 'ativo'),
 ('Ninja', 'ninja@email.com', 'abcdef', 'ativo'),
 ('Ghost', 'ghost@email.com', '654321', 'ativo'),
-('PlayerBanido', 'banido@email.com', 'senha123', 'banido');
+('PlayerBanido', 'banido@email.com', 'senha123', 'ativo');
 
 INSERT INTO modalidades (nome, categoria)
 VALUES
